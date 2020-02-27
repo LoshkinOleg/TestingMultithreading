@@ -1,0 +1,3 @@
+/home/user/Desktop/TestingMultithreading/projects/CMakeFiles/rebuild_cache.dir
+/home/user/Desktop/TestingMultithreading/projects/CMakeFiles/executable.dir
+/home/user/Desktop/TestingMultithreading/projects/CMakeFiles/edit_cache.dir
